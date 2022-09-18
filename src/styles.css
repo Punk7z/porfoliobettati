@@ -81,7 +81,7 @@ html, body {
 }
 
 #fixed {
-    background: url(/images/NZzo.gif) no-repeat center center fixed;
+    background: url(./assets/images/NZzo.gif) no-repeat center center fixed;
     display: table;
     height: 60%;
     position: relative;
